@@ -1,6 +1,18 @@
 
 
+# Introduction
 
+필요에 의해 Ubuntu 에서 카산드라 C/C++ 드라이버 사용을 시도해 봤습니다. 
+	한글로 따라하기가 없어서 혼자 시행착오를 겪으며 초간단 가이드를 작성해봤습니다. 
+	샘플 코드, 그리고 설치 파일들도 함께 모아놨습니다. 
+	자세한 시행착오 기록은 저의 블로그에서 확인할 수 있습니다. 
+ 
+ 
+	* [[시행착오 기록] Cassandra(카산드라) C 드라이버 설치 (클릭)](https://nicewoong.github.io/development/2018/02/24/cassandra-c-driver/)
+
+
+
+<br><br>
 
 
 ## 1. Download and Install Cassandra C/C++ Driver
