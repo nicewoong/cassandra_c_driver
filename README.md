@@ -8,7 +8,7 @@
 	자세한 시행착오 기록은 저의 블로그에서 확인할 수 있습니다. 
  
  
-	* [[시행착오 기록] Cassandra(카산드라) C 드라이버 설치 (클릭)](https://nicewoong.github.io/development/2018/02/24/cassandra-c-driver/)
+* [[시행착오 기록] Cassandra(카산드라) C 드라이버 설치 (클릭)](https://nicewoong.github.io/development/2018/02/24/cassandra-c-driver/)
 
 
 
